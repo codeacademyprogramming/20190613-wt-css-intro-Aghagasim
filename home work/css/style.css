@@ -1,0 +1,165 @@
+ a{
+  text-decoration: none;
+  font-family: sans-serif;
+ }
+
+ .task1{ 
+ color: black;
+ margin: 50px;
+padding: 10px 25px;
+}
+
+.black-link{
+    border: 2px solid black;
+}
+.yellow-link{
+    border: 2px solid yellow;
+}
+.red-link{ 
+    border: 2px solid red;
+}
+.blue-link{
+    border: 2px solid blue;
+} 
+.task2{ 
+margin: 50px;
+padding: 10px 25px;
+}
+.black-back{ 
+    background-color: #666666;
+    color: azure;
+}
+.yellow-back{
+    background-color: #F8C013;
+    color: black;
+}
+.red-back{
+    background-color: #F2625A;
+ color: white;
+}
+.grey-back{
+    background-color: #B9CCD2;
+        color: black;
+}
+.blue-back{
+    background-color: #56C5FF;
+  color: white;
+}
+.task3{
+    background-color: #232323;
+    color: white;
+    padding: 10px;
+}
+.rad1{
+    border-radius: 10px 10px 10px 0px;
+}
+.rad2{
+    border-radius: 10px 10px 0 10px;
+} 
+.rad3{
+    border-radius: 10px 0px 10px 10px;
+}
+.rad4{
+    border-radius: 0px 10px 10px 10px;
+}
+.rad5{
+    border-radius: 10px 10px 0 0px;
+}
+.rad6{
+    border-radius: 0px 0px 10px 10px;
+}
+.rad7{
+    border-radius: 10px 0px 0 10px;
+}
+.rad8{
+    border-radius: 0px 10px 10px 0px;
+}
+.task4{
+    color: white;
+    padding: 10px;
+}
+.qirmizi{
+    background-color: #AD3234; 
+    border-radius: 5px;
+}
+.goy{
+    background-color: #3067B9;
+    border-radius: 10px;
+}
+.yasil{
+    background-color: green;
+    border-radius: 15px;
+}
+.sari{
+    background-color: #F8C013;
+    border-radius: 20px;
+}
+.task5{
+    margin: 40px;
+    color: white;
+    background-color: #4997DF;
+}
+.mini1{
+    border-radius: 4px;
+    padding: 5px 8px;
+    font-size: 11px;
+}
+.mini2{
+    border-radius: 5px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+.mini3{
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 18px;
+}
+.mini4{
+    border-radius: 20px;
+    padding: 5px 8px;
+    font-size: 10px;
+}
+.mini5{
+    border-radius: 10px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+.mini6{
+    border-radius: 20px;
+    padding: 14px 20px;
+    font-size: 20px;
+}
+.img{
+    background-image: url("../img/liverpool.jpg");
+    background-size: cover;
+    text-align: center;
+    margin-top: 300px;
+    font-family: sans-serif;
+}
+.mult{
+  color: white;
+  font-size: 40px;
+}
+.navi{
+color: white;
+font-size: 55px
+}
+.dem{
+color: white;
+background-color: #3AAEE7;
+padding: 15px 40px;
+border-radius: 5px;
+margin: 10px;
+}
+.pur{
+color: white;
+background-color: #81C784;
+padding: 15px 30px;
+border-radius: 5px;
+margin: 10px;}
+blockquote{
+border-left: 3px solid grey;
+padding-left: 20px;
+
+
+}
